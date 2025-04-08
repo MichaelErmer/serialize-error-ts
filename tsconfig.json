@@ -1,8 +1,12 @@
 {
     "do your overrides here": true,
     "compilerOptions": {
-        "baseUrl": "./"
+        "baseUrl": "./",
+        "declaration": true
     },
     "extends": "./tsconfig.default.json",
     "outDir": "./dist",
+    "exclude": [
+        "jest.config.ts"
+    ]
 }
