@@ -1,6 +1,6 @@
 {
 	"name": "serialize-error-ts",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "Serialize/deserialize an error into a plain object",
 	"license": "MIT",
 	"repository": "MichaelErmer/serialize-error-ts",
@@ -10,7 +10,7 @@
 		"url": "https://abillify.me"
 	},
 	"exports": "./index.js",
-    "types": "./index.d.ts",
+	"types": "./index.d.ts",
 	"sideEffects": false,
 	"engines": {
 		"node": ">=18"
