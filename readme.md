@@ -1,5 +1,6 @@
-# serialize-error
+# serialize-error-ts
 
+Pure Typescript / CJS version. 
 Based on https://github.com/sindresorhus/serialize-error
 
 > Serialize/deserialize an error into a plain object

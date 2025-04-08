@@ -1,14 +1,13 @@
 {
-	"name": "serialize-error",
-	"version": "12.0.0",
+	"name": "serialize-error-ts",
+	"version": "1.0.0",
 	"description": "Serialize/deserialize an error into a plain object",
 	"license": "MIT",
-	"repository": "sindresorhus/serialize-error",
-	"funding": "https://github.com/sponsors/sindresorhus",
+	"repository": "MichaelErmer/serialize-error-ts",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "https://sindresorhus.com"
+		"name": "Michael Ermer",
+		"email": "m.ermer@abillify.me",
+		"url": "https://abillify.me"
 	},
 	"exports": "./index.js",
     "types": "./index.d.ts",
