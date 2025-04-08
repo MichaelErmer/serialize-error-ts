@@ -1,0 +1,8 @@
+{
+    "do your overrides here": true,
+    "compilerOptions": {
+        "baseUrl": "./"
+    },
+    "extends": "./tsconfig.default.json",
+    "outDir": "./dist",
+}

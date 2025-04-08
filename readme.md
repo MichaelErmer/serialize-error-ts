@@ -1,5 +1,7 @@
 # serialize-error
 
+Based on https://github.com/sindresorhus/serialize-error
+
 > Serialize/deserialize an error into a plain object
 
 Useful if you for example need to `JSON.stringify()` or `process.send()` the error.

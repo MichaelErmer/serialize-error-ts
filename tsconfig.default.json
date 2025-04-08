@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "strictNullChecks": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "pretty": true,
+    "types": [
+      "node",
+      "jest"
+    ],
+    "sourceMap": true,
+    "target": "es2022",
+    "lib": ["es2022"],
+    "baseUrl": "./"
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "ts-node": {
+    "esm": false
+  }
+}
