@@ -10,7 +10,7 @@
 		"url": "https://abillify.me"
 	},
 	"exports": "./index.js",
-	"types": "./index.d.ts",
+    "typings": "./index",
 	"sideEffects": false,
 	"engines": {
 		"node": ">=18"
@@ -21,10 +21,10 @@
 		"build": "npm run lint && npm run test &&  tsc"
 	},
 	"files": [
-		"index.js",
-		"index.d.ts",
-		"error-constructors.js",
-		"error-constructors.d.ts"
+		"./index.js",
+		"./index.d.ts",
+		"./error-constructors.js",
+		"./error-constructors.d.ts"
 	],
 	"keywords": [
 		"error",
