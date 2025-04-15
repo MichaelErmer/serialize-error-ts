@@ -1,4 +1,5 @@
-# serialize-error-ts
+# serialize-error-ts ![NPM Version](https://img.shields.io/npm/v/serialize-error-ts)
+
 
 Pure Typescript / CJS version. 
 Based on https://github.com/sindresorhus/serialize-error
